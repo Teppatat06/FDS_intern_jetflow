@@ -9,7 +9,7 @@ Mar 9, 2023 11:10:45 AM
 --------------------PyroSim-generated Section--------------------
 
 &HEAD CHID='testAngle'/
-&TIME T_END=1000.0, DT=1.0, WALL_INCREMENT=50/
+&TIME T_END=500.0, DT=1.0, WALL_INCREMENT=50/
 &DUMP DT_RESTART=50.0/
 &MISC TMPA=35.0/
 
